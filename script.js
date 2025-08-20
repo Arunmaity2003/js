@@ -80,3 +80,5 @@ function displayBlogs(articles){
         console.error("Error in finding random news",error);
     }
 })();
+
+// this is the only for my practice
